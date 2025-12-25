@@ -17,6 +17,7 @@ The trained detector achieves strong performance for multi class tumor detection
 
 <img width="622" height="304" alt="image" src="https://github.com/user-attachments/assets/a1959636-d7e9-4006-8b73-19110167e7e3" />
 
+---
 
 ### Tools & Technologies:
 ```
@@ -29,7 +30,7 @@ OpenCV / Pillow** (image preprocessing utilities)
 Matplotlib & Seaborn (training curves and evaluation visualizations)
 ```
 
-
+---
 
 ### Citation
 If you use this work, please cite:
@@ -38,5 +39,5 @@ T. Kidu, Y. Abraha, Y. Berhane, H. Gebrekidan, A. Ramakrishnan and T. Tesfaye,
 “Towards an Optimization Driven Deep Learning Framework for Multi Class Brain Tumor Detection in MRI Imaging,”  
 in *IEEE Proc. 2025 6th International Conference on Computers and Artificial Intelligence Technology (CAIT) 2025*.
 
----
+
 
